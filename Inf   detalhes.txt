@@ -1,0 +1,25 @@
+********* NVM *********
+NVM - NVM é a sigla para Node Version Manager, uma ferramenta de linha de comando que permite gerenciar e instalar diferentes versões do Node.js.
+
+criar arquivo .nvmrc(o RC é uma convecção criada que significa run commands), ele possuem instruções de inicialização, nesse caso para o NVM
+
+nvm install - vai executar diretamente oque já tem no .nvmrc
+********* NODE.JS *********
+package.json = Manifest do progra, ele vai listar as dependecia do projeto, serve para quando alguém quiser instalar o prjeto, conseguir instalar as mesmas dependecia
+
+npm init = criar projeto no node
+license = MIT(depois do init)
+
+
+********* Next.js *********
+Framework web, ajuda e desenvolver na hora de deploy
+- o next usa o sistema file-based routing 
+
+********* react *********
+convenção do react: function Home(){} - usar primeira letra em maiúscula significa criar um componente
+
+Dia Atual curso.dev:
+Dia 5->18
+
+se você deseja fazer uma torta de maça do zero, primeiro você deve criar o universo - carl seagan
+
