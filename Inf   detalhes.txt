@@ -15,6 +15,9 @@ license = MIT(depois do init)
 Framework web, ajuda e desenvolver na hora de deploy
 - o next usa o sistema file-based routing 
 
+npm install next@13.1.6 = para instalar uma versão especifica do next
+npm install react@18.2.0
+
 ********* react *********
 convenção do react: function Home(){} - usar primeira letra em maiúscula significa criar um componente
 
